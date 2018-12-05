@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="80560377-2f4b-48b0-9949-ffaa08ad04a8" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bin/BasicLevel/test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bin/BasicLevel/test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bin/BasicLevel/test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bin/BasicLevel/test2.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,28 +19,32 @@
     <session id="1097969568">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.10" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.50" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="1" />
+          <entry key="java" value="2" />
+          <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="1" />
+          <entry key="JAVA" value="2" />
+          <entry key="Markdown" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="119" />
+          <entry key="java" value="553" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="119" />
+          <entry key="JAVA" value="553" />
         </counts>
       </usages-collector>
     </session>
@@ -54,28 +58,28 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="228">
-                <caret line="576" column="4" lean-forward="true" selection-start-line="576" selection-start-column="4" selection-end-line="576" selection-end-column="4" />
+              <first_editor relative-caret-position="198">
+                <caret line="48" column="4" lean-forward="true" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="4" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/bin/BasicLevel/test1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="726">
-              <caret line="33" column="18" lean-forward="true" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="18" />
+            <state relative-caret-position="290">
+              <caret line="37" column="1" selection-end-line="38" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/bin/BasicLevel/test18_2.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/bin/BasicLevel/test2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="23" />
+            <state relative-caret-position="249">
+              <caret line="86" column="14" lean-forward="true" selection-start-line="86" selection-start-column="14" selection-end-line="86" selection-end-column="14" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -180,9 +184,11 @@
       <find>    </find>
       <find>person</find>
       <find>Tree</find>
+      <find>AA2</find>
     </findStrings>
     <replaceStrings>
       <replace>Person</replace>
+      <replace>A2Flag</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -191,7 +197,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/bin/BasicLevel/test2.java" />
         <option value="$PROJECT_DIR$/src/com/bin/BasicLevel/test3.java" />
         <option value="$PROJECT_DIR$/src/com/bin/BasicLevel/test4.java" />
         <option value="$PROJECT_DIR$/src/com/bin/BasicLevel/Test6.java" />
@@ -212,8 +217,9 @@
         <option value="$PROJECT_DIR$/src/com/bin/BasicLevel/test17_2.java" />
         <option value="$PROJECT_DIR$/src/com/bin/BasicLevel/test18.java" />
         <option value="$PROJECT_DIR$/src/com/bin/BasicLevel/test18_2.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/com/bin/BasicLevel/test1.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/com/bin/BasicLevel/test2.java" />
       </list>
     </option>
   </component>
@@ -233,7 +239,7 @@
   <component name="MavenProjectNavigator">
     <treeState />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -247,9 +253,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -272,12 +275,15 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543817635749" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543997924588" />
     <property name="js-jscs-nodeInterpreter" value="D:\code_soft\node\node.exe" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -299,7 +305,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.test18">
+  <component name="RunManager" selected="Application.test2">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -355,20 +361,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bin.BasicLevel.test13" />
-      <module name="PAT" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bin.BasicLevel.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="test15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bin.BasicLevel.test15" />
       <module name="PAT" />
@@ -413,6 +405,20 @@
     </configuration>
     <configuration name="test18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bin.BasicLevel.test18" />
+      <module name="PAT" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bin.BasicLevel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bin.BasicLevel.test2" />
       <module name="PAT" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -527,19 +533,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.test13" />
       <item itemvalue="Application.test15" />
       <item itemvalue="Application.test16" />
       <item itemvalue="Application.test17" />
       <item itemvalue="Application.test18" />
+      <item itemvalue="Application.test2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.test2" />
         <item itemvalue="Application.test18" />
         <item itemvalue="Application.test17" />
         <item itemvalue="Application.test16" />
         <item itemvalue="Application.test15" />
-        <item itemvalue="Application.test13" />
       </list>
     </recent_temporary>
   </component>
@@ -558,17 +564,18 @@
       <workItem from="1512901339333" duration="17197000" />
       <workItem from="1513070577562" duration="9618000" />
       <workItem from="1513133379545" duration="12979000" />
-      <workItem from="1543817170814" duration="387000" />
+      <workItem from="1543817170814" duration="1442000" />
+      <workItem from="1543993688439" duration="3494000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105474000" />
+    <option name="totallyTimeSpent" value="110023000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26172465" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2655068" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Nl-Palette" order="3" />
@@ -576,18 +583,18 @@
       <window_info id="Image Layers" order="5" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="UI Designer" order="7" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.294686" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.294686" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.33011273" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.22258064" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.21935484" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32850242" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -722,13 +729,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bin/BasicLevel/test2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/bin/BasicLevel/test9.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -760,23 +760,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="228">
-            <caret line="576" column="4" lean-forward="true" selection-start-line="576" selection-start-column="4" selection-end-line="576" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/bin/BasicLevel/test18.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -861,8 +848,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/bin/BasicLevel/test1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="726">
-          <caret line="33" column="18" lean-forward="true" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="18" />
+        <state relative-caret-position="290">
+          <caret line="37" column="1" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="198">
+            <caret line="48" column="4" lean-forward="true" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bin/BasicLevel/test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="86" column="14" lean-forward="true" selection-start-line="86" selection-start-column="14" selection-end-line="86" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
